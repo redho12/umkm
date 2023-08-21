@@ -17,7 +17,7 @@ function App() {
                 <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
                     <li class="nav-item"><a class="nav-link" href="#portfolio">Product</a></li>
                     <li class="nav-item"><a class="nav-link" href="#about">Tentang</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#team">Team</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#team">Pemilik</a></li>
                     <li class="nav-item"><a class="nav-link" href="#contact">Hubungi</a></li>
                 </ul>
             </div>
