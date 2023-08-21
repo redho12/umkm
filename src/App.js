@@ -26,7 +26,7 @@ function App() {
     {/* <!-- Masthead--> */}
     <header class="masthead">
         <div class="container">
-            <div class="masthead-subheading">Selamat Datang!</div>
+            <div class="masthead-subheading">Selamat Datang!!!</div>
             <div class="masthead-heading text-uppercase">Smoothies Mbak Gemoy</div>
             <a class="btn btn-primary btn-xl text-uppercase" href="#portfolio">Lihat Lebih Banyak</a>
         </div>
