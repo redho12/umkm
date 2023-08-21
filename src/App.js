@@ -49,8 +49,7 @@ function App() {
                             <img class="img-fluid" src="assets/img/portfolio/1.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Threads</div>
-                            <div class="portfolio-caption-subheading text-muted">Illustration</div>
+                            <div class="portfolio-caption-heading">Buah Naga Kocok</div>
                         </div>
                     </div>
                 </div>
@@ -64,8 +63,7 @@ function App() {
                             <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Explore</div>
-                            <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                            <div class="portfolio-caption-heading">Buah Alpukat Kocok</div>
                         </div>
                     </div>
                 </div>
@@ -79,8 +77,7 @@ function App() {
                             <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Finish</div>
-                            <div class="portfolio-caption-subheading text-muted">Identity</div>
+                            <div class="portfolio-caption-heading">Buah Mangga Kocok</div>
                         </div>
                     </div>
                 </div>
@@ -94,8 +91,7 @@ function App() {
                             <img class="img-fluid" src="assets/img/portfolio/4.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Lines</div>
-                            <div class="portfolio-caption-subheading text-muted">Branding</div>
+                            <div class="portfolio-caption-heading">Buah Durian Kocok</div>
                         </div>
                     </div>
                 </div>
@@ -109,8 +105,7 @@ function App() {
                             <img class="img-fluid" src="assets/img/portfolio/5.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Southwest</div>
-                            <div class="portfolio-caption-subheading text-muted">Website Design</div>
+                            <div class="portfolio-caption-heading">Es Nyoklat Klasik</div>
                         </div>
                     </div>
                 </div>
@@ -124,8 +119,7 @@ function App() {
                             <img class="img-fluid" src="assets/img/portfolio/6.jpg" alt="..." />
                         </a>
                         <div class="portfolio-caption">
-                            <div class="portfolio-caption-heading">Window</div>
-                            <div class="portfolio-caption-subheading text-muted">Photography</div>
+                            <div class="portfolio-caption-heading">Es Teh Jumbo</div>
                         </div>
                     </div>
                 </div>
@@ -143,51 +137,20 @@ function App() {
                     <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
                     <div class="timeline-panel">
                         <div class="timeline-heading">
-                            <h4>2009-2011</h4>
-                            <h4 class="subheading">Our Humble Beginnings</h4>
+                            <h4>Januari 2023</h4>
+                            <h4 class="subheading">Awal Merintis Usaha</h4>
                         </div>
-                        <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
+                        <div class="timeline-body"><p class="text-muted">SMOOTHIES MBAK GEMOY awal bermula pada awal tahun 2023 karena melihat trend yang sedang ramai di media sosial banyak oarang yang membuat Smoothies, Karena kak Firti atau yang lebih dikenal dengan panggilan Mbak Gemoy mulai merintis usaha untuk membuat smoothies.</p></div>
                     </div>
                 </li>
                 <li class="timeline-inverted">
-                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
+                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.png" alt="..." /></div>
                     <div class="timeline-panel">
-                        <div class="timeline-heading">
-                            <h4>March 2011</h4>
-                            <h4 class="subheading">An Agency is Born</h4>
+                        <div class="map">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1836.2633078956205!2d100.69678944788214!3d0.8371801788689813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d4cb19f6edd52f%3A0xe738a299d5618a8c!2sWarung%20Nyantai%20Mbak%20Gemoy!5e1!3m2!1sid!2sid!4v1692599360947!5m2!1sid!2sid">
+                            </iframe>
                         </div>
-                        <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
-                    </div>
-                </li>
-                <li>
-                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="..." /></div>
-                    <div class="timeline-panel">
-                        <div class="timeline-heading">
-                            <h4>December 2015</h4>
-                            <h4 class="subheading">Transition to Full Service</h4>
-                        </div>
-                        <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
-                    </div>
-                </li>
-                <li class="timeline-inverted">
-                    <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." /></div>
-                    <div class="timeline-panel">
-                        <div class="timeline-heading">
-                            <h4>July 2020</h4>
-                            <h4 class="subheading">Phase Two Expansion</h4>
-                        </div>
-                        <div class="timeline-body"><p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p></div>
-                    </div>
-                </li>
-                <li class="timeline-inverted">
-                    <div class="timeline-image">
-                        <h4>
-                            Be Part
-                            <br />
-                            Of Our
-                            <br />
-                            Story!
-                        </h4>
+                        <div class="timeline-body"><p class="text-muted">Untuk Lokasi SMOOTHIES MBAK GEMOY berlokasi di Desa Bagan Tujuh RT/RW 007/004 Kecamatan Kunto Darussalam Kabupaten Rokan Hulu Riau.</p></div>
                     </div>
                 </li>
             </ul>
@@ -205,8 +168,18 @@ function App() {
                     </div>
                     <div class="col-lg-6 order-lg-1">
                         <div class="p-5">
-                            <h2 class="display-4">For those about to rock...</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione voluptatum molestiae adipisci, beatae obcaecati.</p>
+                            <h2 class="display-4">Tentang Fitri...</h2>
+                            <p>Nama: Fitri
+
+Pekerjaan: Pengusaha dan Pendiri Bisnis Minuman Smoothies "Smoothies Mbak Gemoy"
+
+Deskripsi Singkat:
+Fitri adalah seorang pengusaha berbakat yang memiliki hasrat besar terhadap kesehatan dan nutrisi. Fitri telah sukses dalam mengubah hasratnya menjadi kenyataan dengan mendirikan bisnis minuman smoothies yang inovatif dan berkembang pesat, yang dikenal dengan nama "Smoothies Mbak Gemoy."
+
+Pencapaian:
+Dengan dedikasi dan kerja kerasnya, Fitri telah berhasil mengubah Smoothies Mbak Gemoy menjadi merek yang dikenal secara luas Di Desa Bagan Tujuh. Keahliannya dalam memilih bahan-bahan segar dan berkualitas tinggi telah membuat pelanggan setia kembali lagi dan lagi.
+
+Fitri adalah contoh nyata seorang pengusaha yang menggabungkan hasrat pribadi dengan pengetahuan dan keterampilan bisnis untuk menciptakan jejak sukses dalam industri minuman sehat. Melalui Smoothies Mbak Gemoy, dia telah membuktikan bahwa bisnis dapat menjadi kekuatan untuk perubahan positif dalam masyarakat.</p>
                         </div>
                     </div>
                 </div>
@@ -271,20 +244,13 @@ function App() {
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 {/* <!-- Project details--> */}
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2 class="text-uppercase">Buah Naga Kocok</h2>
+                                <p class="item-intro text-muted">Smoothies buah naga adalah minuman yang terbuat dari buah naga (pitaya) yang diolah menjadi bentuk smoothie. 
+                                Buah naga adalah buah yang berasal dari tanaman kaktus dan memiliki daging yang 
+                                lembut, renyah, dan biasanya manis. Smoothies buah naga sering disiapkan dengan 
+                                mencampur daging buah naga dengan bahan-bahan lain seperti cream, susu, es, atau jus 
+                                buah lainnya untuk menciptakan minuman yang lezat, sehat, dan menyegarkan.</p>
                                 <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/1.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>
-                                        <strong>Client:</strong>
-                                        Threads
-                                    </li>
-                                    <li>
-                                        <strong>Category:</strong>
-                                        Illustration
-                                    </li>
-                                </ul>
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                     <i class="fas fa-xmark me-1"></i>
                                     Close Project
@@ -306,20 +272,12 @@ function App() {
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 {/* <!-- Project details--> */}
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2 class="text-uppercase">Buah Alpukat Kocok</h2>
+                                <p class="item-intro text-muted">minuman yang terbuat dari alpukat yang diolah menjadi bentuk smoothie atau milkshake. 
+                                Alpukat adalah buah dengan daging lembut dan kaya akan lemak sehat, serat, dan nutrisi lainnya. 
+                                Minuman alpukat kocok sering disiapkan dengan mencampur daging alpukat dengan bahan-bahan 
+                                lainnya untuk menciptakan minuman yang lezat dan bergizi.</p>
                                 <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/2.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>
-                                        <strong>Client:</strong>
-                                        Explore
-                                    </li>
-                                    <li>
-                                        <strong>Category:</strong>
-                                        Graphic Design
-                                    </li>
-                                </ul>
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                     <i class="fas fa-xmark me-1"></i>
                                     Close Project
@@ -341,20 +299,10 @@ function App() {
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 {/* <!-- Project details--> */}
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2 class="text-uppercase">Buah Mangga Kocok</h2>
+                                <p class="item-intro text-muted">minuman yang terbuat dari buah mangga yang diolah menjadi smoothie atau milkshake. 
+                                Mangga adalah buah tropis yang manis dan lezat, dan dapat diubah menjadi minuman yang menyegarkan dan lezat.</p>
                                 <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/3.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>
-                                        <strong>Client:</strong>
-                                        Finish
-                                    </li>
-                                    <li>
-                                        <strong>Category:</strong>
-                                        Identity
-                                    </li>
-                                </ul>
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                     <i class="fas fa-xmark me-1"></i>
                                     Close Project
@@ -376,20 +324,11 @@ function App() {
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 {/* <!-- Project details--> */}
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2 class="text-uppercase">Buah Durian Kocok</h2>
+                                <p class="item-intro text-muted">minuman yang terbuat dari buah durian yang diolah menjadi smoothie atau milkshake. Durian adalah buah tropis yang terkenal dengan aromanya yang kuat dan daging yang lezat. Meskipun aroma durian mungkin kontroversial bagi beberapa orang, 
+                                minuman durian kocok dapat menjadi pilihan yang menarik bagi 
+                                mereka yang menyukai rasa durian.</p>
                                 <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/4.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>
-                                        <strong>Client:</strong>
-                                        Lines
-                                    </li>
-                                    <li>
-                                        <strong>Category:</strong>
-                                        Branding
-                                    </li>
-                                </ul>
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                     <i class="fas fa-xmark me-1"></i>
                                     Close Project
@@ -411,20 +350,10 @@ function App() {
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 {/* <!-- Project details--> */}
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2 class="text-uppercase">Es Nyoklat Klasik</h2>
+                                <p class="item-intro text-muted">minuman yang terbuat dari campuran coklat dan bahan-bahan lain yang diolah menjadi bentuk es atau es serut. Ini bisa merujuk pada beberapa jenis minuman coklat yang disajikan dalam bentuk dingin, seperti minuman coklat dingin, 
+                                minuman coklat es krim, atau minuman coklat es serut.</p>
                                 <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/5.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>
-                                        <strong>Client:</strong>
-                                        Southwest
-                                    </li>
-                                    <li>
-                                        <strong>Category:</strong>
-                                        Website Design
-                                    </li>
-                                </ul>
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                     <i class="fas fa-xmark me-1"></i>
                                     Close Project
@@ -446,20 +375,11 @@ function App() {
                         <div class="col-lg-8">
                             <div class="modal-body">
                                 {/* <!-- Project details--> */}
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
+                                <h2 class="text-uppercase">Es Teh Jumbo</h2>
+                                <p class="item-intro text-muted">minuman yang terbuat dari teh yang diolah menjadi 
+                                bentuk dingin dengan menambahkan es batu. Ini adalah minuman yang populer, terutama pada cuaca yang panas. Ada beberapa jenis es teh, 
+                                termasuk teh hitam es, teh hijau es, dan teh buah-buahan es.</p>
                                 <img class="img-fluid d-block mx-auto" src="assets/img/portfolio/6.jpg" alt="..." />
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
-                                <ul class="list-inline">
-                                    <li>
-                                        <strong>Client:</strong>
-                                        Window
-                                    </li>
-                                    <li>
-                                        <strong>Category:</strong>
-                                        Photography
-                                    </li>
-                                </ul>
                                 <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
                                     <i class="fas fa-xmark me-1"></i>
                                     Close Project
